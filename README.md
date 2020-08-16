@@ -8,10 +8,13 @@ Here are the classes in the dataset, as well as 10 random images from each:
 But for our project we will only be using a subset of this dataset with three classes namely aeroplane, car and bird. Our training data will contain 15,000 images and validation data will have 3,000 images.  
   
 # DEPENDANCIES 
-We have used numpy, tensorflow and keras for this project. If you don't have them on your local machine yet you can pip install them using:  
+We have used numpy, matplotlib, tensorflow and keras for this project. If you don't have them on your local machine yet you can pip install them using:  
 ```html  
 pip install numpy
 ```  
+```html  
+pip install matplotlib
+```
 We have used the latest version of tensorflow here i.e. tensorflow2.0. For installation purpose you can refer [installing tensorflow2.0 for windows](https://www.tensorflow.org/install).  
   
 As we are using keras implementation on tensorflow backend so we don't need to install it manually.  
